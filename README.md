@@ -1,3 +1,3 @@
 
-"I assisted the business owner in optimizing benefits and operational efficiency."
+"I assisted business owners in optimizing benefits and operational efficiency."
 
