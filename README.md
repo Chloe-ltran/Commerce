@@ -1,6 +1,6 @@
 
 "I assisted business owners in optimizing benefits and operational efficiency."
----
+
 
 <div style="display: flex;">
     <div style="flex: 30%; padding: 0 10px;">
