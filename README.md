@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Image with Text Overlay</title>
@@ -13,6 +13,7 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
+            color: blue; /* Change text color to blue */
         }
     </style>
 </head>
@@ -25,7 +26,6 @@
     </div>
 </body>
 </html>
-
 
 
 
