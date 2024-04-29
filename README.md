@@ -29,9 +29,9 @@
 </body>
 </html>
 
+<br>
 
-
-<div style="display: flex;">
+<div style="display: flex; justify-content: flex-start;">
     <div style="flex: 30%; padding: 0 10px;">
         <a href="https://chloe-ltran.github.io/flights-Bay-Area/" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Flights-Bay-Area</a>
     </div>
@@ -42,7 +42,7 @@
 
 <br>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: flex-start;">
     <div style="flex: 45%; padding: 0 0px;">
         <a href="https://chloe-ltran.github.io/flights-Bay-Area/" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Businesses in San Francisco</a>
     </div>
