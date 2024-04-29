@@ -13,13 +13,13 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            color: blue; /* Change text color to blue */
+            color: white; /* Change text color to blue */
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <img src="https://raw.githubusercontent.com/Chloe-ltran/Commerce/main/datascience.jpg" alt="Your Image" style="width:100%;">
+        <img src="https://raw.githubusercontent.com/Chloe-ltran/Commerce/main/data-science-banner.jpg" alt="Your Image" style="width:100%;">
         <div class="text">
             "I assisted business owners in optimizing benefits and operational efficiency."
         </div>
