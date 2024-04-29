@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="[your-image.jpg](https://raw.githubusercontent.com/Chloe-ltran/Commerce/main/datascience.jpg)" alt="Your Image" style="width:100%;">
+        <img src="https://raw.githubusercontent.com/Chloe-ltran/Commerce/main/datascience.jpg" alt="Your Image" style="width:100%;">
         <div class="text">
             "I assisted business owners in optimizing benefits and operational efficiency."
         </div>
