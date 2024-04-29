@@ -1,5 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image with Text Overlay</title>
+    <style>
+        .container {
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+        .text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="[your-image.jpg](https://raw.githubusercontent.com/Chloe-ltran/Commerce/main/datascience.jpg)" alt="Your Image" style="width:100%;">
+        <div class="text">
+            "I assisted business owners in optimizing benefits and operational efficiency."
+        </div>
+    </div>
+</body>
+</html>
 
-"I assisted business owners in optimizing benefits and operational efficiency."
+
 
 
 <div style="display: flex;">
