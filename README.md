@@ -11,9 +11,11 @@
         .text {
             position: absolute;
             top: 50%;
-            left: 50%;
+            left: 10%; /* Adjust left position to align text to the left */
             transform: translate(-50%, -50%);
-            color: white; /* Change text color to blue */
+            color: white;
+            text-align: left; /* Align text to the left */
+            width: 80%; /* Set width to 80% to avoid overflowing outside the container */
         }
     </style>
 </head>
