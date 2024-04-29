@@ -15,7 +15,7 @@
             transform: translate(-50%, -50%);
             color: white;
             text-align: left; /* Align text to the left */
-            width: 90%; /* Set width to 90% to ensure it fits within the container */
+            width: 40%; /* Set width to 90% to ensure it fits within the container */
         }
     </style>
 </head>
