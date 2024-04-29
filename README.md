@@ -11,7 +11,7 @@
         .text {
             position: absolute;
             top: 50%;
-            left: 20%; /* Adjust left position to align text to the left */
+            left: 35%; /* Adjust left position to align text to the left */
             transform: translate(-50%, -50%);
             color: white;
             text-align: left; /* Align text to the left */
