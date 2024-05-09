@@ -31,6 +31,19 @@
 
 <br>
 
+<br>
+
+<div style="display: flex; justify-content: flex-start;">
+    <div style="flex: 30%; padding: 0 0px;">
+        <a href="https://chloe-ltran.github.io/Employee-Attrition-Prediction/" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Employee Attrition Prediction</a>
+    </div>
+    <div style="flex: 70%;">
+        Analyzing employee attrition prediction enables business owners to make informed decisions, reduce costs, enhance workforce planning, maintain productivity, improve employee satisfaction, and gain a competitive advantage in the market.
+    </div>
+</div>
+
+<br>
+
 <div style="display: flex; justify-content: flex-start;">
     <div style="flex: 30%; padding: 0 0px;">
         <a href="https://chloe-ltran.github.io/flights-Bay-Area/" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Flights-Bay-Area</a>
