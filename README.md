@@ -34,10 +34,10 @@
 <br>
 
 <div style="display: flex; justify-content: flex-start;">
-    <div style="flex: 25%; padding: 0 0px;">
+    <div style="flex: 50%; padding: 0 0px;">
         <a href="https://chloe-ltran.github.io/Employee-Attrition-Prediction/" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Employee Attrition Prediction</a>
     </div>
-    <div style="flex: 75%;">
+    <div style="flex: 50%;">
         Analyzing employee attrition prediction enables business owners to make informed decisions, reduce costs, enhance workforce planning, maintain productivity, improve employee satisfaction, and gain a competitive advantage in the market.
     </div>
 </div>
