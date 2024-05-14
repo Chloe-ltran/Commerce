@@ -67,7 +67,7 @@
         <a href="https://github.com/Chloe-ltran/Fine-Tuning-LLMs" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Fine-Tuning-LLMs</a>
     </div>
     <div style="flex: 70%;">
-       Using Fine-tune GPT3.5 to train a model aimed at extracting customer feedback data.
+       Used Fine-tune GPT3.5 to train a model aimed at extracting customer feedback data.
     </div>
 </div>
 
