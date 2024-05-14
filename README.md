@@ -61,3 +61,25 @@
 </div>
 
 <br>
+
+<div style="display: flex; justify-content: flex-start;">
+    <div style="flex: 30%; padding: 0 0px;">
+        <a href="https://github.com/Chloe-ltran/Fine-Tuning-LLMs" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Fine-Tuning-LLMs</a>
+    </div>
+    <div style="flex: 70%;">
+       Using Fine-tune GPT3.5 to train a model aimed at extracting customer feedback data.
+    </div>
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: flex-start;">
+    <div style="flex: 40%; padding: 0 0px;">
+        <a href="https://chloe-ltran.github.io/Businesses-in-San-Francisco/" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Businesses in San Francisco</a>
+    </div>
+    <div style="flex: 60%;">
+        Researched and analyzed the opening and closing of businesses in San Francisco.
+    </div>
+</div>
+
+<br>
