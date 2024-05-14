@@ -67,7 +67,7 @@
         <a href="https://github.com/Chloe-ltran/Fine-Tuning-LLMs" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Fine-Tuning-LLMs</a>
     </div>
     <div style="flex: 70%;">
-       Used Fine-tune GPT3.5 to train a model aimed at extracting customer feedback data.
+       Used OpenAI API to develop a fine-tuned large language model (LLM) with a focus on extracting pertinent details from textual customer complaints.
     </div>
 </div>
 
