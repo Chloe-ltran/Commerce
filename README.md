@@ -74,10 +74,10 @@
 <br>
 
 <div style="display: flex; justify-content: flex-start;">
-    <div style="flex: 30%; padding: 0 0px;">
+    <div style="flex: 40%; padding: 0 0px;">
         <a href="https://colab.research.google.com/drive/1gTFWJUyK2UQtZqG5geHVFqzRYQGLpr-D?authuser=1#scrollTo=cHMGYdUOl2w4" style="background-color: #6495ED; color: #ffffff; padding: 20px; border-radius: 5px; text-decoration: none; display: inline-block;">Creating an AI-driven financial chatbot</a>
     </div>
-    <div style="flex: 70%;">
+    <div style="flex: 600%;">
        Developed an AI chatbot that can analyze financial data and provide insights by integrating the extracted and analyzed data into the chatbot system.
     </div>
 </div>
